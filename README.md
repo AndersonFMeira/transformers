@@ -72,7 +72,6 @@ For example, given the following input: Soundwave, D, 8,9,2,6,7,5,6,10 Bluestrea
 # Requirements
 The API should be built using Java, Spring and Maven. If you do not have experience in these frameworks, please feel free to use any other alternative.
 <br>● API must be restful
-
 <br>● The project should be built with Java 8
 <br>● The project should build using maven
 <br>● The project should be delivered as a Web Application
