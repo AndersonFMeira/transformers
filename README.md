@@ -22,7 +22,7 @@ that evaluates who wins a fight between the Autobots and the Decepticons.
 # Overview
 The goal of the technical test is to create a Java RESTful API. Your API should allow the
 # following main functionality:
-<br>● Create a Transformer
+● Create a Transformer
 <br>● Update a Transformer
 <br>● Delete a Transformer
 <br>● List Transformers
@@ -47,7 +47,7 @@ Your API should take as input a list of Transformer IDs and based on input retur
 2. The winning team
 3. The surviving members of the losing team
 # The basic rules of the battle are:
-<br>● The transformers are split into two teams based on if they are Autobots or Decepticons
+● The transformers are split into two teams based on if they are Autobots or Decepticons
 <br>● The teams should be sorted by rank and faced off one on one against each other in
 order to determine a victor, the loser is eliminated.
 <br>● A battle between opponents uses the following rules:
@@ -59,7 +59,7 @@ order to determine a victor, the loser is eliminated.
 1, there’s only going to be one battle)
 <br>● The team who eliminated the largest number of the opposing team is the winner
 # Special rules:
-<br>● Any Transformer named Optimus Prime or Predaking wins his fight automatically
+● Any Transformer named Optimus Prime or Predaking wins his fight automatically
 regardless of any other criteria
 <br>● In the event either of the above face each other (or a duplicate of each other), the game
 immediately ends with all competitors destroyed
